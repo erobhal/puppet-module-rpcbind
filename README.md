@@ -18,6 +18,7 @@ This module is built for use with Puppet v3 Ruby versions 1.8.7, 1.9.3, 2.0.0 an
  * Suse 12
  * Ubuntu 12.04 LTS
  * Ubuntu 14.04 LTS
+ * Ubuntu 18.04 LTS
 
 ---
 
